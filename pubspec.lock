@@ -30,7 +30,7 @@ packages:
     description:
       path: "packages/camera/camera"
       ref: "camera_0.10.5+9"
-      resolved-ref: "7bb6528daecabaf67aea06a3cdb091db5e7f8d8e"
+      resolved-ref: fce63ea2aa9ed8ea0514eba94f76e62fe4267bd3
       url: "https://github.com/Techainer/flutter-camera-package.git"
     source: git
     version: "0.10.5+9"
@@ -39,7 +39,7 @@ packages:
     description:
       path: "packages/camera/camera_android"
       ref: "camera_0.10.5+9"
-      resolved-ref: "7bb6528daecabaf67aea06a3cdb091db5e7f8d8e"
+      resolved-ref: fce63ea2aa9ed8ea0514eba94f76e62fe4267bd3
       url: "https://github.com/Techainer/flutter-camera-package.git"
     source: git
     version: "0.10.8+16"
@@ -48,7 +48,7 @@ packages:
     description:
       path: "packages/camera/camera_avfoundation"
       ref: "camera_0.10.5+9"
-      resolved-ref: "7bb6528daecabaf67aea06a3cdb091db5e7f8d8e"
+      resolved-ref: fce63ea2aa9ed8ea0514eba94f76e62fe4267bd3
       url: "https://github.com/Techainer/flutter-camera-package.git"
     source: git
     version: "0.9.13+10"
@@ -57,7 +57,7 @@ packages:
     description:
       path: "packages/camera/camera_platform_interface"
       ref: "camera_0.10.5+9"
-      resolved-ref: "7bb6528daecabaf67aea06a3cdb091db5e7f8d8e"
+      resolved-ref: fce63ea2aa9ed8ea0514eba94f76e62fe4267bd3
       url: "https://github.com/Techainer/flutter-camera-package.git"
     source: git
     version: "2.7.2"
@@ -66,7 +66,7 @@ packages:
     description:
       path: "packages/camera/camera_web"
       ref: "camera_0.10.5+9"
-      resolved-ref: "7bb6528daecabaf67aea06a3cdb091db5e7f8d8e"
+      resolved-ref: fce63ea2aa9ed8ea0514eba94f76e62fe4267bd3
       url: "https://github.com/Techainer/flutter-camera-package.git"
     source: git
     version: "0.3.2+4"
